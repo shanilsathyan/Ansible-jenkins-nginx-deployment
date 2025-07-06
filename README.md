@@ -31,6 +31,7 @@ This project automates:
 
 ## 📂 Project Structure
 ansible-deploy-nginx/
+
 │
 ├── inventory # Ansible Inventory File
 ├── nginx.yml # Main Playbook (Triggers Role)
