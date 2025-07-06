@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.pub
+*.retry
+*.log
+.ssh/
