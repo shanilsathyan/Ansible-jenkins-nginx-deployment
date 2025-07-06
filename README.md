@@ -30,8 +30,8 @@ This project automates:
 ---
 
 ## 📂 Project Structure
+```
 ansible-deploy-nginx/
-
 │
 ├── inventory # Ansible Inventory File
 ├── nginx.yml # Main Playbook (Triggers Role)
@@ -45,7 +45,7 @@ ansible-deploy-nginx/
 │ └── index.html.j2 # Dynamic Landing Page Template
 ├── defaults/
 │ └── main.yml # Default Variables
-
+```
 
 ---
 
